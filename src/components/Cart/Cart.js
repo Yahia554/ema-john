@@ -14,9 +14,9 @@ const Cart = (props) => {
         <div className='cart'>
             <h4>Order Summary</h4>
             <p>select Item: {cart.length}</p>
-            <p>Total Price: {total}</p>
-            <p>Total shipping: {shipping}</p>
-            <p>Tax: {tax}</p>
+            <p>Total Price: ${total}</p>
+            <p>Total shipping: ${shipping}</p>
+            <p>Tax: ${tax}</p>
             <h5>Grand Total: </h5>
         </div>
     );
