@@ -1,0 +1,14 @@
+.cart{
+    position: sticky;
+    top: 0;
+}
+.cart h4{
+    text-align: center;
+    margin-top: 10px;
+}
+.cart h5{
+    margin-left: 23px; 
+}
+.cart p{
+    margin-left: 23px;
+}
