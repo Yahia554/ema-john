@@ -1,5 +1,5 @@
 .header-container {
-  width: 960px;
+  width: 100%;
 }
 .header {
   height: 80px;
@@ -8,16 +8,16 @@
   align-items: center;
   justify-content: space-between;
   padding-left: 112px;
-  padding-right: 97px;
+  padding-right: 50px;
   margin-top: auto;
-  width: 100%;
+  width: 87%;
 }
 
 .header a {
   color: #ffffff;
   text-decoration: none;
   font-size: 17px;
-  margin-left: 32px;
+  margin-right: 32px;
 }
 
 .header a:hover {

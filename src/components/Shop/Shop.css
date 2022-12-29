@@ -5,7 +5,7 @@
 .product-container {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 33px;
+  gap: 20px;
   margin: 100px 50px;
 }
 
@@ -16,14 +16,15 @@
 .cart-container .review-order-btn {
   margin-left: 20px;
   height: 48px;
-  width: 232px;
+  /* width: 150px;
   left: 1192px;
-  top: 514px;
+  top: 514px; */
   border-radius: 4px;
   background: rgba(255, 153, 0, 1);
   color: rgba(255, 255, 255, 1);
   display: flex;
   align-items: center;
+  border: 0px;
 }
 .rev-btn-ta {
   font-family: Lato;
